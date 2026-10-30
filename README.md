@@ -71,6 +71,8 @@ All timing constraints were met for the selected FPGA part.
 
 ## Demonstration and Lab Report
 
-All three behavioral simulations were completed and the waveforms were recorded. Physical FPGA testing and the TA demonstration are still pending.
+## Demonstration and Lab Report
 
-The lab report includes prelab state diagrams, simulation results, implementation results, conclusion, contribution chart, and GitHub link.
+All three designs were tested using behavioral simulations, and the waveforms were recorded and analyzed. The debouncer also completed synthesis, implementation, and bitstream generation for FPGA demonstration.
+
+The lab report includes prelab state diagrams, simulation results, implementation results, conclusion, contribution chart, and GitHub repository link.
