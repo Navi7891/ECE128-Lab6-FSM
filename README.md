@@ -71,8 +71,6 @@ All timing constraints were met for the selected FPGA part.
 
 ## Demonstration and Lab Report
 
-## Demonstration and Lab Report
-
 All three designs were tested using behavioral simulations, and the waveforms were recorded and analyzed. The debouncer also completed synthesis, implementation, and bitstream generation for FPGA demonstration.
 
 The lab report includes prelab state diagrams, simulation results, implementation results, conclusion, contribution chart, and GitHub repository link.
